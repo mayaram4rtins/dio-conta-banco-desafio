@@ -2,8 +2,7 @@
 <h1 align="center">Simulando Uma Conta Bancária Através Do Terminal/Console</h1>
 
 <p align="center">
-<img src="[http://img.shields.io/static/v1?label=STATUS&message=EM+ANDAMENTO&color=RED&style=for-the-badge](https://img.shields.io/static/v1?label=STATUS&message=EM+ANDAMENTO&color=red&style=for-the-badge
-)"/>
+<img src="https://img.shields.io/static/v1?label=STATUS&message=EM+ANDAMENTO&color=red&style=for-the-badge"/>
 </p>
 
 # :pushpin: Index
