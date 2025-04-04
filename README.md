@@ -7,9 +7,10 @@
 
 # :pushpin: Index
 
-* [Index](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#pushpin-índice)
-* [Project Individual Development](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#page_facing_up-project-description)
-* [Tools n' Languages](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#snake-tools-and-language)
+* [Index](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#pushpin-index)
+* [Descrição](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#page_facing_up-descrição)
+* [Desenvolvimento Individual](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#wrench-desenvolvimento-individual)
+* [Ferramentas e linguagens](https://github.com/mayaram4rtins/dio-conta-banco-desafio/blob/main/README.md#snake-ferramentas-e-linguagens) 
 
 # :page_facing_up: Descrição
 
